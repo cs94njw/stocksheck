@@ -24,6 +24,6 @@ An application to download the status of the stocks and shares I own, and allow 
 
 # Format of Spreadsheet Required
 
-Column with name, "Stock"
-Column with name, "Alert"
-Column with name, "Today's Price"
+* Column with name, "Stock"
+* Column with name, "Alert"
+* Column with name, "Today's Price"
